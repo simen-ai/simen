@@ -21,8 +21,8 @@
 ## Platform Support
 
 Simen is available as a standalone desktop application for:
-- **macOS**
-- **Windows** 
+- **[macOS](https://case.simen.ai/en/downloads)**
+- **[Windows](https://case.simen.ai/en/downloads)** 
 
 ## Getting Started
 
