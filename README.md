@@ -53,4 +53,4 @@ We welcome feedback and issue reports to help improve Simen. Please use this rep
 - **Support Team** - For account and billing questions, please email our support team at `hi@simen.ai`.
 
 
-©2025 GPTsMotion Tech LLc . or its affiliates. All Rights Reserved.
+©2025 GPTsMotion Tech LLC . or its affiliates. All Rights Reserved.
