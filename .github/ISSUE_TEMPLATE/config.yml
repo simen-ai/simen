@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Community Forum
+    url: https://case.simen.ai/en/welcome
+    about: Please ask and answer questions here.
+  - name: Support Team
+    url: mailto:hi@simen.ai
+    about: For account and billing questions. 
