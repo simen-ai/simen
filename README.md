@@ -5,6 +5,8 @@
   
   Simen is a 100% Agent-driven editor designed for complex, document-driven workflows. It empowers you to automate highly specialized tasks using natural language—no coding required.
   
+  <video src="https://github.com/user-attachments/assets/81730ea2-fcfc-4fa5-bbb3-0307046db8ad" autoplay loop muted playsinline width="100%"></video>
+  
 </div>
 
 ## Core Capabilities
