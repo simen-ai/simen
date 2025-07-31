@@ -57,7 +57,7 @@ We welcome feedback and issue reports to help improve Simen. Please use this rep
 
 ## Support
 - **Community Forum** - For technical queries and to share your experiences, please visit our [official forum](https://case.simen.ai/en/welcome) (link currently points to docs).
-- **Add Founder's WeChat** - Add the founder's WeChat to discuss product philosophy. [WeChat QR Code](https://github.com/user-attachments/assets/63482f5f-6335-495c-bf82-481f23b738c3)
+- **Add Founder's WeChat** - Add the founder's WeChat to discuss product philosophy. [Add Founder WeChat](https://simen.ai/zh_CN#wechat)
 - **Support Team** - For account and billing questions, please email our support team at `hi@simen.ai`.
 
 
