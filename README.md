@@ -1,6 +1,10 @@
 <div align="left">
   <img src="assets/icon.png" alt="Simen" width="80" height="80">
   
+  <div align="right">
+    <a href="README.md">🇺🇸 English</a> | <a href="README_CN.md">🇨🇳 中文</a>
+  </div>
+  
   # Simen
   
   Simen is a 100% Agent-driven editor designed for complex, document-driven workflows. It empowers you to automate highly specialized tasks using natural language—no coding required.
