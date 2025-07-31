@@ -11,7 +11,7 @@
   
   由 Agent驱动，天生擅长操作各种行业专业软件。
   
-  简单说，Simen 用超快的速度交付保证你满意的行业结果，无需编写任何代码。
+  简单说，Simen 能用超快的速度交付让你满意的行业结果，而你无需编写一行代码。
   
   <video src="https://github.com/user-attachments/assets/c5a53d88-d644-4a72-9784-34d391c5db6c" autoplay loop muted playsinline width="100%"></video>
   
